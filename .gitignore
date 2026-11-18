@@ -1,0 +1,9 @@
+build/
+dist/
+out/
+*.class
+nbproject/private/
+# output from run.sh
+*.txt
+!InputFileForHumanPosi.txt
+.DS_Store
